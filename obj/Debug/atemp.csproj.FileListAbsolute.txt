@@ -1,0 +1,10 @@
+C:\Users\Дом\Documents\GitHub\atemp\bin\Debug\atemp.exe.config
+C:\Users\Дом\Documents\GitHub\atemp\bin\Debug\atemp.exe
+C:\Users\Дом\Documents\GitHub\atemp\bin\Debug\atemp.pdb
+C:\Users\Дом\Documents\GitHub\atemp\obj\Debug\atemp.csprojAssemblyReference.cache
+C:\Users\Дом\Documents\GitHub\atemp\obj\Debug\atemp.Form1.resources
+C:\Users\Дом\Documents\GitHub\atemp\obj\Debug\atemp.Properties.Resources.resources
+C:\Users\Дом\Documents\GitHub\atemp\obj\Debug\atemp.csproj.GenerateResource.cache
+C:\Users\Дом\Documents\GitHub\atemp\obj\Debug\atemp.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Documents\GitHub\atemp\obj\Debug\atemp.exe
+C:\Users\Дом\Documents\GitHub\atemp\obj\Debug\atemp.pdb
